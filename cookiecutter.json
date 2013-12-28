@@ -1,4 +1,4 @@
 {
-  "app_name": "django",
-  "model_name": "po"
+  "app_name": "things",
+  "model_name": "thing"
 }
